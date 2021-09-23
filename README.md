@@ -1,5 +1,7 @@
 ## pao-zsh config
 
+![pao-zsh](https://statics.payungsakpk.xyz/pao-zsh/pao-zsh.png)
+
 How to use
 1. vim ~/.zshrc
 2. Install oh-my-zsh, you can follow this link [oh-my-zsh](https://ohmyz.sh)
