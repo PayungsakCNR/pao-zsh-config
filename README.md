@@ -2,7 +2,8 @@
 
 How to use
 1. vim ~/.zshrc
-2. Add or modify this line
+2. Install oh-my-zsh, you can follow this link [oh-my-zsh](https://ohmyz.sh)
+3. Add or modify this line
 
 ```
 export PROMPT_EOL_MARK=''
